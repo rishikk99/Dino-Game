@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Replit files
+.replit
+replit.nix
+replit_zip_error_log.txt
+
+# UPM directory (used by Replit)
+.upm/
+
+# Dependency directories (comment out if using Poetry or Pipenv)
+# poetry.lock
+# Pipfile.lock
